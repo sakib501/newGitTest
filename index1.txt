@@ -1,3 +1,7 @@
 test line form mystic user
 
-adding change bloop bloop  2
+change deleting bloop 2
+
+change bloop bloop  2
+
+adding from new branch
